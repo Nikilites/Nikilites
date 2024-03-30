@@ -76,11 +76,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media1.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b9529gz88kpts121sby8swfb7ykasu18rpibejyta59p&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b9529gz88kpts121sby8swfb7ykasu18rpibejyta59p&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+</div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Nikilites/count.svg?"  />
