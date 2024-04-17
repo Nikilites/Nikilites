@@ -82,6 +82,10 @@
 
 ###
 
+<h3 align="center">how many times has my page been viewed?</h2>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/Nikilites/count.svg?"  />
 </div>
