@@ -36,7 +36,7 @@
 
 <div align="center">
   <h3>🚀 Profile Visits</h3>
-  <h6 style="margin: 0; padding-top: 5px; color: #888">From February 27, 2025</h6>
+  <h6 style="margin: 0; padding-top: 5px; color: #888">from February 27, 2025</h6>
   <img src="https://komarev.com/ghpvc/?username=Nikilites&color=blueviolet&style=flat" alt="Visitors"/>
 </div>
 
