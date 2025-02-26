@@ -36,9 +36,6 @@
   <a href="https://www.youtube.com/c/Nikilite" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="YouTube"/>
   </a>
-  <a href="https://www.instagram.com/nikilite_official/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"/>
-  </a>
   <a href="https://www.twitch.tv/nikilite_official" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35" alt="Twitch"/>
   </a>
