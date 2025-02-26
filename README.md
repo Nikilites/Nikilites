@@ -65,3 +65,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Nikilites/Nikilites/output/snake.svg" alt="Snake animation" />
+
+###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=nikilites&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
