@@ -56,7 +56,7 @@
 ###
 
 <h3 align="center">🚀 Profile Visits</h3>
-<sub align="center">from March 30, 2024</sub>
+<h6 align="center">from March 30, 2024</h6>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Nikilites&label=Profile+Views&color=blueviolet&style=flat" alt="Profile views counter" />
