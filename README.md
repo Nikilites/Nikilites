@@ -10,8 +10,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nikilites&layout=compact&theme=merko&hide_border=true" height="150" alt="WakaTime Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikilite&theme=merko" height="150" alt="Repo per linguaggio"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikilite&theme=merko" height="150" alt="Linguaggi più usati"/>
 </div>
+
 
 ###
 
