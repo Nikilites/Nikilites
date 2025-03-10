@@ -10,8 +10,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikilite&theme=merko" height="150" alt="Repo per linguaggio"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikilite&theme=merko" height="150" alt="Linguaggi più usati"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikilites&theme=merko" height="150" alt="Repo per linguaggio"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikilites&theme=merko" height="150" alt="Linguaggi più usati"/>
 </div>
 
 
