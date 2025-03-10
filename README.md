@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikilites&hide_title=true&layout=compact&theme=merko&hide_border=true&langs_count=6" height="150" alt="Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nikilites&layout=compact&theme=merko&hide_border=true" height="150" alt="WakaTime Stats"/>
 </div>
 
 ###
