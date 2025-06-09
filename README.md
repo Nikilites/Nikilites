@@ -24,4 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Nikilites/Nikilites/output/snake.svg" alt="Snake animation" width="45%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikilites/Nikilites/output/snake.svg" alt="Snake animation" width="45%" />
+</p>
